@@ -18,5 +18,10 @@ int main() {
     cin >> name;
     cout << "Hello, World!"+name << endl;
     
+    cout << "enter your name here!" << endl;
+    cin >> name;
+    cout << "Hello, World!"+name << endl;
+    
+    
     return 0;
 }
