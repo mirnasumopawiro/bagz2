@@ -22,6 +22,8 @@ int main() {
     cin >> name;
     cout << "Hello, World!"+name << endl;
     
+    //Bagus ganteng
+    
     
     return 0;
 }
