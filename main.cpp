@@ -14,15 +14,12 @@ int main() {
     string name;
     
     // insert code here...
-    cout << "enter your name here!" << endl;
-    cin >> name;
-    cout << "Hello, World!"+name << endl;
+
     
     cout << "enter your name here!" << endl;
     cin >> name;
     cout << "Hello, World!"+name << endl;
     
-    //Bagus ganteng
     
     
     return 0;
